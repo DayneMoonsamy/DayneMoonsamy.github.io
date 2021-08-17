@@ -19,7 +19,7 @@ Higher Education: Univeristy of Pretoria, Bsc Computer Science. (2018-2020)
 
 ## Experience:
 
-**Amazon Software Developemnt Engineering Intern (February 2021 - May 2021)** -   
+**Amazon Software Development Engineering Intern (February 2021 - May 2021)** -   
 - Built an internal took allowing users with proper authorization to access my team's data safely and independently.
 - This took the form of a serverless website that fetched and returned data to the user's specifications.
 - Gained experience with AWS tools as well as various soft skills valuable to a software engineer.     
